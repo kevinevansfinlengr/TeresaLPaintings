@@ -1,0 +1,19 @@
+.top3 {
+    display: inline-flexbox;
+    height: 40%;
+    width: 100%;
+}
+
+h1 {
+    background-color: lightblue;
+    font-style: italic;
+}
+
+img {
+    height: 400px;
+    width: 250px;
+}
+
+.inprogress {
+    display: none;
+}
